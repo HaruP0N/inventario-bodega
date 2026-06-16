@@ -1,0 +1,10 @@
+package cl.ucm.inventario_bodega.dto.out;
+
+import lombok.Data;
+
+@Data
+public class CategoryOut {
+    private Long id;
+    private String name;
+    private String description;
+}

@@ -1,0 +1,9 @@
+package cl.ucm.inventario_bodega.dto.in;
+
+import lombok.Data;
+
+@Data
+public class LoginRequest {
+    private String username;
+    private String password;
+}
