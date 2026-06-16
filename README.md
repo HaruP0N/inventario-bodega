@@ -69,7 +69,7 @@ npm install
 npm run dev
 
 ## 👥 Integrantes
-- Leandro [apellido]
-- [nombre compañero]
+- Leandro Torres
+- Nicolás Rojas
 
 ## 🏫 Universidad Católica del Maule — 2026
